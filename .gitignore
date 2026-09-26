@@ -1,0 +1,93 @@
+# Python environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.so
+
+# Testing and tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+# IDE and operating-system files
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# Raw challenge data
+# Do not upload competition datasets
+
+data/raw/
+
+# Generated processed data
+# These Parquet files are large and reproducible
+
+
+data/processed/
+
+# DuckDB databases and temporary spill files
+
+outputs/
+*.duckdb
+*.duckdb.wal
+*.tmp
+*.temp
+
+
+# Large generated submission files
+# Keep submission folder structure using .gitkeep
+
+submission/*.tsv
+submission/*.csv
+submission/*.zip
+
+
+# Large generated model/inference outputs
+
+*.parquet
+*.feather
+*.arrow
+
+
+# Optional local logs
+
+*.log
+logs/
+
+
+# Local environment configuration and secrets
+
+.env
+.env.*
+!.env.example
+
+# Git credentials or private keys
+*.pem
+*.key
+credentials.json
+secrets.json
+
+
+# Temporary files
+
+~$*
+*.bak
+*.swp
+*.swo

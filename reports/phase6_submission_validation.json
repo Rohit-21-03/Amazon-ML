@@ -1,0 +1,11 @@
+{
+  "source1_rows": 1732544,
+  "distinct_source1_ids": 1732544,
+  "candidate_pairs": 85192266,
+  "accepted_predictions": 65755368,
+  "predictions_not_in_candidates": 0,
+  "matching_result_rows": 1732544,
+  "candidate_tsv_rows": 85192266,
+  "matching_file_bytes": 869946646,
+  "candidate_file_bytes": 2196091779
+}

@@ -1,0 +1,19 @@
+{
+  "threshold": 0.775,
+  "macro_entity_f0_5": 0.8092075160425283,
+  "true_positives": 1036302.0,
+  "false_positives": 40548.0,
+  "false_negatives": 492123.0,
+  "predicted_links": 1076850.0,
+  "true_links": 1528425.0,
+  "entities_predicted_empty": 57979.0,
+  "true_singletons": 24508.0,
+  "correctly_empty_entities": 21730.0,
+  "micro_precision": 0.9623457306031481,
+  "micro_recall": 0.6780195299082389,
+  "metric": "macro entity-level F0.5",
+  "beta": 0.5,
+  "search_start": 0.3,
+  "search_stop": 0.95,
+  "search_step": 0.025
+}

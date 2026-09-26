@@ -1,0 +1,4 @@
+source,rows,unique_entity_ids,duplicate_entity_ids,missing_business_name,missing_business_address,missing_country,duplicate_business_names,duplicate_addresses,avg_name_length,avg_address_length
+S1,2206821,2206821,0,0,0,0,667592,76215,24.03440333402664,52.06621289175697
+S2,5034616,5034616,0,2,168967,0,632607,697354,25.103574135544797,46.22590858965212
+S3,5285603,5285603,0,13,175916,0,633994,652838,25.20213890449207,46.71443731207206

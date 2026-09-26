@@ -1,0 +1,7 @@
+split,file,rows,duplicate_entity_ids,empty_entity_ids,missing_entity_ids,empty_normalized_names,empty_normalized_addresses,countries
+train,train_source1_normalized.parquet,2206821,0,0,0,0,0,"{'us': 1323633, 'india': 883188}"
+train,train_source2_normalized.parquet,5034616,0,0,0,2,168967,"{'us': 3016817, 'india': 2017799}"
+train,train_source3_normalized.parquet,5285603,0,0,0,13,175916,"{'us': 3170056, 'india': 2115547}"
+test,test_source1_normalized.parquet,1732544,0,0,0,0,0,"{'india': 809986, 'us': 663106, 'france': 259452}"
+test,test_source2_normalized.parquet,4887273,0,0,0,46,129408,"{'india': 2312565, 'us': 1871330, 'france': 703378}"
+test,test_source3_normalized.parquet,5082316,0,0,0,59,136098,"{'india': 2405000, 'us': 1945701, 'france': 731615}"

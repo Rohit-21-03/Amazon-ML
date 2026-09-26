@@ -1,0 +1,14 @@
+{
+  "source1_rows": 1732544,
+  "source1_distinct": 1732544,
+  "matching_rows": 1732544,
+  "matching_distinct": 1732544,
+  "duplicate_matching_source_rows": 0,
+  "predicted_links": 65755368,
+  "candidate_tsv_rows": 85192266,
+  "candidate_parquet_rows": 85192266,
+  "duplicate_predicted_links": 0,
+  "predictions_not_in_candidates": 0,
+  "status": "PASS",
+  "failures": []
+}

@@ -1,0 +1,15 @@
+{
+  "threshold": 0.5,
+  "tp": 1076726,
+  "fp": 97512,
+  "fn": 33426,
+  "tn": 2899382,
+  "precision": 0.9169572096968417,
+  "recall": 0.9698906095741844,
+  "f0_5_pairwise": 0.9270765600202785,
+  "best_iteration": 1200,
+  "training_rows": 16450278,
+  "validation_rows": 4107046,
+  "scale_pos_weight": 2.7046854808960816,
+  "note": "Pair-level threshold 0.5 only; entity-level F0.5 tuning occurs in Phase 4B."
+}
